@@ -1,0 +1,8 @@
+.show {
+  display: block;
+  background-color: antiquewhite;
+  color: rgb(21, 72, 72);
+}
+.hide {
+  display: none;
+}
