@@ -1,0 +1,15 @@
+div {
+  /* display: inline; */
+}
+button {
+  cursor: pointer;
+  padding: 15px;
+  margin: 0.5px;
+  background-color: antiquewhite;
+  color: #333333;
+}
+
+button:hover {
+  color: antiquewhite;
+  background-color: #815833;
+}
